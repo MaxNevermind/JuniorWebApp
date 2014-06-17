@@ -25,4 +25,6 @@ target
 logs
 test-output
 
+log.file
+
 # example of ignored path - /jcommune-view/jcommune-web-controller/test-output
