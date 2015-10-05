@@ -8,7 +8,7 @@ JuniorWebApp
  - pom.xml contains all basic properties for the application, such as data base connection properties and port on which Jetty will run. You probably will need to change properties: db.name, jdbc.username, jdbc.password
  - To run the project, from a project folder, type in console: "mvn jetty:run"
  
- ####Used technologies:
+ ###Used technologies:
  - Jetty
  - PostgresSQL
  - Spring(MVC)
