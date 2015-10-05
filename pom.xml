@@ -19,7 +19,7 @@
 		<db.url>localhost</db.url>
 		<db.name>SampleProject1</db.name>
 		<jdbc.username>postgres</jdbc.username>
-		<jdbc.password>1234</jdbc.password>
+		<jdbc.password>123</jdbc.password>
 		<db.maxConnections>5</db.maxConnections>
 		<hibernate.dialect>org.hibernate.dialect.PostgreSQLDialect</hibernate.dialect>
 		<hibernate.hbm2ddl.auto>update</hibernate.hbm2ddl.auto>
